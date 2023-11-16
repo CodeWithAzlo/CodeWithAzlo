@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Azlan Shah</h1>
+<marquee direction="up" direction = "left" align="center">Hi 👋, I'm Azlan Shah</marquee>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 
