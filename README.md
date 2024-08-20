@@ -1,7 +1,7 @@
-## 👋 Welcome to my Contribution Universe  - Azlan Shah
+## 👋 Welcome to my Contribution Profile - Azlan Shah
 
 
-![Azlan Shah](https://readme-typing-svg.demolab.com/?font=Consolas&weight=600&pause=1000&color=F58A02&center=true&vCenter=true&width=435&lines=A+JavaScript+Developer+A+Frontend+Developer)
+![Azlan Shah](https://readme-typing-svg.demolab.com/?font=Consolas&weight=600&pause=1000&color=F58A02&center=true&vCenter=true&width=435&lines=A+JavaScript+Developer+A+Frontend+Developer+)
 
 
 <p align="center"><br/>
