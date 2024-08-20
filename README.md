@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **New Technologies**
 
-- 💬 Ask me about ** JAVASCRIPT, React.js, HTML, CSS, Bootstrap , Tailwind, SCSS.**
+- 💬 Ask me about ** JavaScript, React.js, Firebase,  HTML, Css, Bootstrap , Tailwind, Scss, and Ui Frameworks .**
 
 - 📫 How to reach me **codewithazlo@gmail.com**
 
