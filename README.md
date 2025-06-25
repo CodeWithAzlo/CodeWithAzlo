@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **New Technologies**
 
-- 💬 Ask me about **React js, HTML, CSS , JAVASCRIPT, Bootstrap ,Tailwind.**
+- 💬 Ask me about ** JavaScript, Python, FastApi, React js, Next js**
 
 - 📫 How to reach me **codewithazlo@gmail.com**
 
