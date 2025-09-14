@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **New Technologies**
 
-- 💬 Ask me about ** JavaScript, Python, FastApi, React js, Next js**
+- 💬 Ask me about ** JavaScript, Python, FastApi, React js, Node js**
 
 - 📫 How to reach me **codewithazlo@gmail.com**
 
