@@ -57,7 +57,6 @@
   <!-- AI/ML -->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML"/>
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" alt="Copilot"/>
   <img src="https://img.shields.io/badge/Natural_Language_Processing-000000?style=for-the-badge&logo=ai&logoColor=white" alt="NLP"/>
   <img src="https://img.shields.io/badge/Voice_AI-000000?style=for-the-badge&logo=ai&logoColor=white" alt="Voice AI"/>
   <img src="https://img.shields.io/badge/Artificial_Intelligence-000000?style=for-the-badge&logo=ai&logoColor=white" alt="AI"/>
