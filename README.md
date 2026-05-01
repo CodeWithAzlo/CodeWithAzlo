@@ -18,7 +18,7 @@
 - ⚡ Fun fact **I turn coffee into code and ideas into reality!**
 
 <div align="center">
-  <img src="name_img.png" alt="Muhammad Azlan Shah Full Stack" style="width: 100%; max-width: 50px; border-radius: 15px; box-shadow: 0 0 25px rgba(14, 117, 182, 0.8); border: 3px solid #0e75b6; margin: 20px 0;">
+  <img src="name_img.png" alt="Muhammad Azlan Shah Full Stack" border-radius: 15px; box-shadow: 0 0 25px rgba(14, 117, 182, 0.8); border: 3px solid #0e75b6; margin: 20px 0;">
 </div>
 
 <h3 align="center">🌐 Connect with me:</h3>
