@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="top_bg_img.png" alt="Banner" style="width: 100%; height: 200px; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin-bottom: 20px;">
+</p>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+%F0%9F%91%8B,+I'm+Azlan+Shah;Welcome+To+My+Github+Profile;A+FullStack+Developer;A+AI+Enthusiast;A+Cloud+Enthusiast!;&center=true&width=500&height=50&font=Fira+Code&color=0e75b6&vCenter=true&size=30&pause=2000&speed=80">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+%F0%9F%91%8B,+I'm+Azlan+Shah;Welcome+To+My+Github+Profile;A+FullStack+Developer;A+AI+Enthusiast;A+Cloud+Engineer!;&center=true&width=500&height=50&font=Fira+Code&color=0e75b6&vCenter=true&size=30&pause=2000&speed=80">
 </h1>
 
 <p align="center">
@@ -16,10 +20,6 @@
 - 📫 How to reach me **codewithazlo@gmail.com**
 
 - ⚡ Fun fact **I turn coffee into code and ideas into reality!**
-
-<div align="center">
-  <img src="name_img.png" alt="Muhammad Azlan Shah Full Stack" border-radius: 15px; box-shadow: 0 0 25px rgba(14, 117, 182, 0.8); border: 3px solid #0e75b6; margin: 20px 0;">
-</div>
 
 <h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
