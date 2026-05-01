@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I turn coffee into code and ideas into reality!**
 
-<h2 align="center" style="color: #0e75b6; text-shadow: 0 0 10px #0e75b6, 0 0 20px #0e75b6, 0 0 30px #0e75b6, 0 0 40px #0e75b6; font-family: 'Courier New', monospace; font-size: 2em; animation: glow 2s ease-in-out infinite alternate;">MUHAMMAD ~ AZLAN ~ SHAH ~ DEV</h2>
+<h2 align="center" style="color: #0e75b6; text-shadow: 0 0 10px #0e75b6, 0 0 20px #0e75b6, 0 0 30px #0e75b6, 0 0 40px #0e75b6; font-family: 'Courier New', monospace; font-size: 2em; animation: glow 2s ease-in-out infinite alternate; border: 2px solid #0e75b6; border-radius: 10px; padding: 10px; background: linear-gradient(45deg, #1e3c72, #2a5298); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">< MUHAMMAD ~ AZLAN ~ SHAH ~ FULL STACK ></h2>
 
 <h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
