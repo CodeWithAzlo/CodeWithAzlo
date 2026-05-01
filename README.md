@@ -18,7 +18,7 @@
 - ⚡ Fun fact **I turn coffee into code and ideas into reality!**
 
 <div align="center">
-  <h1 style="color: #ffffff; text-shadow: 0 0 10px #0e75b6, 0 0 20px #0e75b6, 0 0 30px #0e75b6, 0 0 40px #0e75b6, 0 0 50px #0e75b6; font-family: 'Fira Code', monospace; font-size: 3em; font-weight: bold; border: 3px solid #0e75b6; border-radius: 20px; padding: 20px; background: linear-gradient(135deg, #0e75b6, #1e3c72); box-shadow: 0 0 20px rgba(14, 117, 182, 0.5); margin: 20px 0;">< MUHAMMAD ~ AZLAN ~ SHAH ~ FULL STACK ></h1>
+  <img src="name_img.png" alt="Muhammad Azlan Shah Full Stack" style="width: 100%; max-width: 600px; border-radius: 15px; box-shadow: 0 0 25px rgba(14, 117, 182, 0.8); border: 3px solid #0e75b6; margin: 20px 0;">
 </div>
 
 <h3 align="center">🌐 Connect with me:</h3>
