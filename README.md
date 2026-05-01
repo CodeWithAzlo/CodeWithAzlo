@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+%F0%9F%91%8B,+I'm+Azlan+Shah;Welcome+To+My+Github+Profile;A+FullStack+Developer+%7C+AI+Enthusiast+%7C+Cloud+Engineer!;&center=true&width=500&height=50&font=Fira+Code&color=0e75b6&vCenter=true&size=30&pause=2000&speed=80">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+%F0%9F%91%8B,+I'm+Azlan+Shah;Welcome+To+My+Github+Profile;A+FullStack+Developer;A+AI+Enthusiast;A+Cloud+Engineer!;&center=true&width=500&height=50&font=Fira+Code&color=0e75b6&vCenter=true&size=30&pause=2000&speed=80">
 </h1>
 
 <p align="center">
@@ -16,6 +16,8 @@
 - 📫 How to reach me **codewithazlo@gmail.com**
 
 - ⚡ Fun fact **I turn coffee into code and ideas into reality!**
+
+<h2 align="center" style="color: #0e75b6; text-shadow: 0 0 10px #0e75b6, 0 0 20px #0e75b6, 0 0 30px #0e75b6, 0 0 40px #0e75b6; font-family: 'Courier New', monospace; font-size: 2em; animation: glow 2s ease-in-out infinite alternate;">MUHAMMAD ~ AZLAN ~ SHAH ~ DEV</h2>
 
 <h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
